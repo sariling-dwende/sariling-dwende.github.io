@@ -1,9 +1,9 @@
-title: Immaculate
+title: apocrypha
 description: >
   A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
-url: "https://github.com/siawyoung/immaculate"
+url: "https://sariling-dwende.github.io"
 paginate:	2 # The number of posts to show per page on your homepage
-name: "Lau Siaw Young"
+name: "Kael Espino"
 markdown: kramdown
 permalink: none
 kramdown:
