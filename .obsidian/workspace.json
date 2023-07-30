@@ -13,7 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "_posts/2023-07-29-great-art-as-a-referential-object.md",
                 "mode": "source",
                 "source": false
@@ -26,10 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-07-29-great-art-as-a-referential-object.md",
-=======
-                "file": "_posts/2023-07-30-a-new-post.md",
->>>>>>> parent of c3f6456 (new page update)
+                "file": "the failure of hedonistic search for happiness.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,11 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "_posts/2023-07-29-great-art-as-a-referential-object.md",
-=======
-                "file": "_posts/2023-07-30-a-new-post.md",
->>>>>>> parent of c3f6456 (new page update)
+                "file": "the failure of hedonistic search for happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,11 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "_posts/2023-07-29-great-art-as-a-referential-object.md",
-=======
-                "file": "_posts/2023-07-30-a-new-post.md",
->>>>>>> parent of c3f6456 (new page update)
+                "file": "the failure of hedonistic search for happiness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "_posts/2023-07-29-great-art-as-a-referential-object.md"
-=======
-                "file": "_posts/2023-07-30-a-new-post.md"
->>>>>>> parent of c3f6456 (new page update)
+                "file": "the failure of hedonistic search for happiness.md"
               }
             }
           }
@@ -176,20 +160,15 @@
       "templater-obsidian:Templater": false
     }
   },
-<<<<<<< HEAD
   "active": "ff71507f82013a69",
   "lastOpenFiles": [
-    "_posts/2023-07-29-great-art-as-a-referential-object.md",
-    "the failure of hedonistic search for happiness.md",
     "contact.md",
-    "_posts/2023-07-30-a-new-post.md",
-=======
-  "active": "ad8414476c99aa17",
-  "lastOpenFiles": [
+    "README.md",
     "the failure of hedonistic search for happiness.md",
->>>>>>> parent of c3f6456 (new page update)
-    "templates/{{date}}.md",
+    "about.md",
+    "_posts/2023-07-29-great-art-as-a-referential-object.md",
     "_posts/2023-07-30-a-new-post.md",
+    "templates/{{date}}.md",
     "_posts/Untitled.md",
     "templates"
   ]
