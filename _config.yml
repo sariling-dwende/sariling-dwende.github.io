@@ -2,7 +2,7 @@ title: apocrypha
 description: >
   Thoughts unbound
 url: "https://sariling-dwende.github.io"
-baseurl: "/sarilingdwende.io"
+baseurl: "https://sarilingdwende.io"
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Kael Espino"
 markdown: kramdown
