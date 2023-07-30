@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-07-30.md",
+                "file": "_posts/2023-07-30-a-new-post.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-07-30.md",
+                "file": "_posts/2023-07-30-a-new-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-07-30.md",
+                "file": "_posts/2023-07-30-a-new-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-07-30.md"
+                "file": "_posts/2023-07-30-a-new-post.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad8414476c99aa17",
+  "active": "18330249ad8d6f68",
   "lastOpenFiles": [
     "templates/{{date}}.md",
-    "_posts/2023-07-30.md",
+    "_posts/2023-07-30-a-new-post.md",
     "_posts/Untitled.md",
     "templates"
   ]
