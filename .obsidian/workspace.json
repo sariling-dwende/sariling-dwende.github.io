@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff71507f82013a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-07-29-great-art-as-a-referential-object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,8 +160,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18330249ad8d6f68",
+  "active": "ff71507f82013a69",
   "lastOpenFiles": [
+    "_posts/2023-07-29-great-art-as-a-referential-object.md",
     "the failure of hedonistic search for happiness.md",
     "contact.md",
     "_posts/2023-07-30-a-new-post.md",
