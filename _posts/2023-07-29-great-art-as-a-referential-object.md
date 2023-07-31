@@ -12,4 +12,4 @@ Great art fleshes out a soul and a profound expression masterly crafted to evoke
 
 What makes art great depends on the scope of human nature it is mirroring. It requires degrees of nuances, and a razor-sharp edge precision in showing the layers. It is the art of dissecting the human while keeping it alive.
 
-> this idea is connected to man's conscious choice of a type of [[a return to form]] that allows him to integrate [[2023-07-30-a-new-post|the Shadow]]. with these, art of g.reat importance are made with [[self-knowledge]] as its foundation.
+> this idea is connected to man's conscious choice of a type of [[2023-02-08-a-return-to-form]] that allows him to integrate [[2023-07-30-a-new-post|the Shadow]]. with these, art of g.reat importance are made with [[self-knowledge]] as its foundation.
