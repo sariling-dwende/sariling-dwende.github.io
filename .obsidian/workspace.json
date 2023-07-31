@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-07-29-great-art-as-a-referential-object.md",
+                "file": "_posts/2023-02-08-a-return-to-form.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff71507f82013a69",
+  "active": "18330249ad8d6f68",
   "lastOpenFiles": [
     "_posts/2023-02-08-a-return-to-form.md",
     "_posts/2023-07-29-great-art-as-a-referential-object.md",
