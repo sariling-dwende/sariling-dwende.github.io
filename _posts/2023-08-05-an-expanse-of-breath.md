@@ -2,17 +2,17 @@
 layout: post
 title: An Expanse of Breath
 ---
-Command the present to eclipse this guilt. This restless
-thrashing of a bent-necked joy: a future aborted, impended
-and resigned, as if (hold my thoughts the way
-water sits on the windowsill: the poem
-lives on this memory) we are lying
-to ourselves, when we say “I see you,” to another.
-My god, disintegrate me to ashes
-of your gaze, 
-thriving in this false nakedness.
-Let me elaborate. Take my fingers and deny
-this body access to poetry.
+</p>Command the present to eclipse this guilt. This restless<br>
+thrashing of a bent-necked joy: a future aborted, impended<br>
+and resigned, as if (hold my thoughts the way<br>
+water sits on the windowsill: the poem<br>
+lives on this memory) we are lying<br>
+to ourselves, when we say “I see you,” to another.<br>
+My god, disintegrate me to ashes<br>
+of your gaze,<br>
+thriving in this false nakedness.<br>
+Let me elaborate. Take my fingers and deny<br>
+this body access to poetry.</p>
 
 Do I need to explain the poem in this?
 
