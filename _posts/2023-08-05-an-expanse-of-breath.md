@@ -2,7 +2,7 @@
 layout: post
 title: An Expanse of Breath
 ---
-</p>Command the present to eclipse this guilt. This restless<br>
+<p>Command the present to eclipse this guilt. This restless<br>
 thrashing of a bent-necked joy: a future aborted, impended<br>
 and resigned, as if (hold my thoughts the way<br>
 water sits on the windowsill: the poem<br>
