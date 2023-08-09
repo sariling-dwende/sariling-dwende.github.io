@@ -2,7 +2,10 @@ title: apocrypha
 description: >
   Thoughts unbound
 url: "https://sariling-dwende.github.io"
+<<<<<<< HEAD
 baseurl: "/sariling-dwende.github.io"
+=======
+>>>>>>> parent of f929e7f (added untitled html for page layout with image)
 paginate:	2 # The number of posts to show per page on your homepage
 name: "Kael Espino"
 markdown: kramdown
