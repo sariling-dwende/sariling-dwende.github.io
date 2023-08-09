@@ -10,7 +10,6 @@ main {
 }
 
 body {
-  font-family: Arial, sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,10 +27,12 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-amp-img {
+.image-placeholder {
   flex: 1;
   background: url('https://cdn.midjourney.com/b3458685-dc98-4478-9948-d16d7b594c38/0_0.png') center/cover no-repeat;
   height: 100vh;
+
+amp-img {
   background-color: grey;
 }
 
