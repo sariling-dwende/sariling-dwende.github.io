@@ -9,29 +9,6 @@ main {
   margin-top: 20px;
 }
 
-body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0;
-  padding: 0;
-  min-height: 100vh;
-}
-
-.container {
-  display: flex;
-  max-width: 1200px;
-  margin: 20px;
-  padding: 20px;
-  background-color: white;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.image-placeholder {
-  flex: 1;
-  background: url('https://cdn.midjourney.com/b3458685-dc98-4478-9948-d16d7b594c38/0_0.png') center/cover no-repeat;
-  height: 100vh;
-
 amp-img {
   background-color: grey;
 }
