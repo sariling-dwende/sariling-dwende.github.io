@@ -4,7 +4,7 @@ tag: humanity, thoughts
 ---
 The soul of art comes from the delicate soul of the artist that imbues the artwork with life. A certain type of mastery requires sacrifice, where that sacrifice becomes palpable to a work of art. This is beyond appreciation where it is an external application of a person's connection toward an artwork. 
 
-"I appreciate that work because it moves me." It is a declaration of a subjective experience. It can be found in every artwork, since it is in itself a declaration of a subjective experience. The appreciation comes as a response towards the artwork's "prompt," as if in experiencing an artwork, we engage to an idea where we only converse with with the work we feel most connected to.
+<h2>"I appreciate that work because it moves me."</h2> It is a declaration of a subjective experience. It can be found in every artwork, since it is in itself a declaration of a subjective experience. The appreciation comes as a response towards the artwork's "prompt," as if in experiencing an artwork, we engage to an idea where we only converse with with the work we feel most connected to.
 
 Every artwork is a letter in a bottle thrown into the sea. 
 
